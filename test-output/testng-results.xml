@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10092" started-at="2019-12-04T14:14:28Z" finished-at="2019-12-04T14:14:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10092" started-at="2019-12-04T14:14:28Z" finished-at="2019-12-04T14:14:38Z">
+      <class name="com.headless.Demo">
+        <test-method status="PASS" signature="headless()[pri:0, instance:com.headless.Demo@f5ac9e4]" name="headless" duration-ms="10075" started-at="2019-12-04T14:14:28Z" finished-at="2019-12-04T14:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headless -->
+      </class> <!-- com.headless.Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
